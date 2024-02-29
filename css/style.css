@@ -57,7 +57,7 @@ body
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
-    /* text-transform: capitalize; */
+    text-transform: capitalize;
 }
 
 .search button
